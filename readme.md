@@ -48,27 +48,24 @@ ESC will display most relevant information.
 Left clicking an upgrade will automatically apply that upgrade to the world.  
 
 ## List of tiles:
--Dirt(default), produces +1 coin/click.  
--Water, which spawns grass in adjacent tiles. It  
-  eventually evaporates. Does not produce anything.  
--Grass, produces +2-8 coins/click(depending on grass  
-  growth). A grass tile will start growing next to water.  
-  Grass will exhaust after 1 click, becoming dirt.  
--Decorative Pavement produces +7 coins/click.  
--Quantum tile produces +21k coins/click.  
+- Dirt(default), produces +1 coin/click.  
+- Water, which spawns grass in adjacent tiles. It eventually evaporates. Does not produce anything.  
+- Grass, produces +2-8 coins/click(depending on grass growth). A grass tile will start growing next to water. Grass will exhaust after 1 click, becoming dirt.  
+- Decorative Pavement produces +7 coins/click.  
+- Quantum tile produces +21k coins/click.  
 
 ## List of placeable machines(amount of profit will depend on upgrades purchased):
--Dirt Excavator, place on dirt.  
--Grass Harvester, place on grass. Will not deplete grass.  
--House, will randomly generate rent.  
--Water Pump, constantly refreshes evaporating water  
-surrounding it.  
--Market, will profit overall, but may lose money.  
--Quantum PC, place on quantum tile for large profits.  
+- Dirt Excavator, place on dirt.  
+- Grass Harvester, place on grass. Will not deplete grass.  
+- House, will randomly generate rent.  
+- Water Pump, constantly refreshes evaporating water surrounding it.  
+- Market, will profit overall, but may lose money.  
+- Quantum PC, place on quantum tile for large profits.  
 
 ## Upgrades will double profit of a machine but will cause the next upgrade to cost triple(still worth it!):
--Grass profits  
--House rents  
--Grass spreads from grass multiplier  
--Market leverage (will overall average positive profits, but can start to lose a lot)  
--Quantum PC profits  
+- Grass profits  
+- House rents  
+- Grass spreads from grass multiplier  
+- Market leverage (will overall average positive profits, but can start to lose a lot)  
+- Quantum PC profits  
+
