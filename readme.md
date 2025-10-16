@@ -39,13 +39,13 @@ pytest
 ```
 
 ## Controls
-Left clicking a tile will net you some amount of tilecoin.  
-Left clicking on a tile or machine in the shop will select it(red background).  
-If something is selected and you click a tile, it will buy that tile and place it there.  
-Right clicking will deselect any selection, as well as left clicking on a selected button.  
-Some tiles and machines can be sold by selecting that tile or machine, then clicking the tile you wish to sell. (ex. to sell a grass harvester, first select the grass harvester, then click in the world the grass harvester to sell).  
-ESC will display most relevant information.  
-Left clicking an upgrade will automatically apply that upgrade to the world.  
+- Left clicking a tile will net you some amount of tilecoin.  
+- Left clicking on a tile or machine in the shop will select it(red background).  
+- If something is selected and you click a tile, it will buy that tile and place it there.  
+- Right clicking will deselect any selection, as well as left clicking on a selected button.  
+- Some tiles and machines can be sold by selecting that tile or machine, then clicking the tile you wish to sell. (ex. to sell a grass harvester, first select the grass harvester, then click in the world the grass harvester to sell).  
+- ESC will display most relevant information.  
+- Left clicking an upgrade will automatically apply that upgrade to the world.  
 
 ## List of tiles:
 - Dirt(default), produces +1 coin/click.  
@@ -68,4 +68,5 @@ Left clicking an upgrade will automatically apply that upgrade to the world.
 - Grass spreads from grass multiplier  
 - Market leverage (will overall average positive profits, but can start to lose a lot)  
 - Quantum PC profits  
+
 
